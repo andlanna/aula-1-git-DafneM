@@ -1,0 +1,13 @@
+
+1.
+a) git init -> inicializa um repositório no git a partir de um diretório com dados.
+b) git clone -> inicializa um repositório a partir de um repositório remoto que já existe.
+c) git branch -> lista as branchs do repositório.
+d) git checkout -> utilizado para alterar para uma branch específica.
+e) git fetch -> busca as alterações mais recentes da branch atual que se encontram no repositório remoto.
+f) git pull -> busca as alterações da branch atual que se encontram no repositório remoto e faz merge com os arquivos no repositório local.
+g) git add -> adiciona todas as mudanças realizadas no repositório local
+h) git commit -> serve como registro das mudanças realizadas no projeto
+i) git push -> utilizado para incoporar as mudanças ao repositório remoto.
+
+2. O comando git pull, além de buscas as alterações, faz um merge com o repositório local, atualizando totalmente o repositório local. Já o comando git fetch, busca as alterações recentes e as mostra no repositório, não faz o merge com o mesmo. 
